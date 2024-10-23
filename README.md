@@ -42,7 +42,7 @@ Algorithms Used
 - Random Forest Regressor
 - XGBoost Regressor
 - ...
-- 
+
 Hyperparameter Tuning
 - Utilize grid search or randomized search to find the best parameters.
 
